@@ -17,7 +17,7 @@ Installation
 To run the Whack-a-Mole game locally, follow these steps:
 
 1.Clone the Repository
-git clone https://github.com/yourusername/whack-a-mole.git
+git clone https://github.com/jaiswalradha335@gmail.com/whack-a-mole.git
 cd whack-a-mole
 
 Open the Game
