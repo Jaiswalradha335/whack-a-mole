@@ -1,4 +1,4 @@
-Whack-a-Mole Game
+#Whack-a-Mole Game
 
 
 Welcome to the Whack-a-Mole game repository! This project implements the classic arcade game using HTML, CSS, and JavaScript. Players hit moles that randomly appear from holes to score points.
